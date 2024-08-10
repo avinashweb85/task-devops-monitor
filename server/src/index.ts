@@ -40,6 +40,6 @@ io.on('connection', (socket) => {
 });
 
 
-server.listen(8080, () => {
+server.listen(PORT, () => {
     console.log(`Socket.IO server is running on ${PORT}`);
 });
