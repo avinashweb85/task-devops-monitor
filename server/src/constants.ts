@@ -7,4 +7,4 @@ export const ENDPOINTS = [
     'https://data--ap-southeast.upscope.io/status?stats=1'
 ];
 
-export const PORT = '8080';
+export const PORT = '8000';
