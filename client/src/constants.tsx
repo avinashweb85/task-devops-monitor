@@ -1,1 +1,1 @@
-export const SERVER_PORT = 'http://localhost:8080';
+export const SERVER_PORT = 'http://test-env.eba-9dkywnry.ap-southeast-2.elasticbeanstalk.com/';
